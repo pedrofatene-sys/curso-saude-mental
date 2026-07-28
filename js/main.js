@@ -1,6 +1,6 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'e8dQeAIUIs8', name: ' De onde vem o SUS?' },
+    { id: 'e8dQeAIUIs8', name: 'De onde vem o SUS?' },
     { id: 'JYeOVhfSGnA', name: 'Atenção primária à saúde (APS) / Saúde da Família' },
     { id: 'B13aWHj4FvY', name: 'Agente comunitário de saúde: um operador de mudanças!' },
 ];
