@@ -1,15 +1,8 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: 'LakjhD7SWRE', name: 'Organizando os seus dados' },
-    { id: 'e8dQeAIUIs8', name: 'aula - 02' },
-    { id: 'd0jiLHJGRwM', name: 'aula - 03' },
-    { id: 'LAPHMHGdU3o', name: 'aula - 04' },
-    { id: '1fDOyVJFJko', name: 'aula - 05' },
-    { id: 'mpYZGktdB2k', name: 'aula - 06' },
-    { id: 'IhdMJerpMak', name: 'aula - 07' },
-    { id: 'bz7tRRPFd7s', name: 'aula - 08' },
-    { id: 'jRVAD7K1bDU', name: 'aula - 09' },
-    { id: 'NBUJHxwthHA', name: 'aula - 10' }
+    { id: 'e8dQeAIUIs8', name: ' De onde vem o SUS?' },
+    { id: 'JYeOVhfSGnA', name: 'Atenção primária à saúde (APS) / Saúde da Família' },
+    { id: 'B13aWHj4FvY', name: 'Agente comunitário de saúde: um operador de mudanças!' },
 ];
 
 // Estado atual
